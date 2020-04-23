@@ -1,0 +1,16 @@
+{
+    "name": "kurs/php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Eryk Sikora",
+            "email": "eryksikora95@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "ES95\\": "src/"
+      }
+    },
+    "require": {}
+}
